@@ -8,3 +8,6 @@ O projeto faz uma chamada a API, retornarndo uma lista de dados baseado na entra
 - Rodar o projeto com ~npm run start
 - Abrir na porta 8080.
 
+Build Process:
+- npm install webpack-dev-server -g
+- npm link webpack
