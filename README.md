@@ -11,3 +11,4 @@ O projeto faz uma chamada a API, retornarndo uma lista de dados baseado na entra
 Build Process:
 - npm install webpack-dev-server -g
 - npm link webpack
+- npm start
